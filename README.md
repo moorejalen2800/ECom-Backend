@@ -1,12 +1,12 @@
-ECom_Backend
+# ECom_Backend
 
-Description
+# Description
 
 In this project I was tasked with creating the back-end for a hypothetical E-Commerce web site. I employed Sequelize to connect the MYSQL database to the relevant server end points. In addition, I checked the connectivity of the end points with Insomnia.
 
-The database was seeded with previously developed starter code, and had three tables: Category, Product, and Tag. The latter two tables were related in a many-to-many relationship, which demanded successful implementation of a "through" statement with a linking ProductTag table to simulate the SQL join.
+# The database was seeded with previously developed starter code, and had three tables: Category, Product, and Tag. The latter two tables were related in a many-to-many relationship, which demanded successful implementation of a "through" statement with a linking ProductTag table to simulate the SQL join.
 
-Lincense
+# Lincense
 
 MIT License
 
